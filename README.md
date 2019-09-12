@@ -5,10 +5,12 @@ Requirements:
 python 3.6
 
 Dependencies to run script.py:
+
 sudo apt-get install python3-bs4
 sudo apt-get install python3-lxml
 
 Dependencies to run ec2.py:
+
 sudo apt-get install python3-pip
 pip3 install boto3
 pip3 install awscli
